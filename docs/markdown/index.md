@@ -14,6 +14,8 @@ You can even *combine* **them** in different *ways!* It's **super** simple.
 
 You can even *combine* **them** in different *ways!* It's **super** simple.
 
+## Headers
+
 ```
 Adding titles, subtitles, and headers is very simple!
 
@@ -33,3 +35,11 @@ Adding titles, subtitles, and headers is very simple!
 #### some
 ##### lovely
 ###### hashtags.
+
+## Links
+
+```
+Links are super easy and cool too! [Check it out!](https://google.com)
+```
+
+Links are super easy and cool too! [Check it out!](https://google.com)
