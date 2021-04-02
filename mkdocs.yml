@@ -41,5 +41,6 @@ nav:
     - HTML: markdown/html.md
   - About:
     - Project: about/index.md
+    - Changelog: about/changelog.md
     - Contributing: about/contributing.md
     - Source: about/source.md
