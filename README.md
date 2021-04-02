@@ -2,4 +2,4 @@
 
 <p align="center">Markdown formatting guides, built using MkDocs</p>
 
-<a align="center" href=https://sleepiie.github.io/formatting>View the site here</a>
+<a href=https://sleepiie.github.io/formatting>View the site here</a>
