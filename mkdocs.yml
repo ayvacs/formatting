@@ -37,3 +37,6 @@ nav:
     - Images: markdown/images.md
     - Code: markdown/code.md
     - Quotes: markdown/quotes.md
+  - Contributing:
+    - How to contribute: contributing/index.md
+    - Workflow: contributing/workflow.md
