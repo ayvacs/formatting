@@ -40,5 +40,6 @@ nav:
     - Tables: markdown/tables.md
     - HTML: markdown/html.md
   - About:
-    - Formatting Guide: about/index.md
+    - Project: about/index.md
     - Contributing: about/contributing.md
+    - Source: about/source.md
