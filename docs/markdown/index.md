@@ -1,5 +1,27 @@
 # The Basics
 
+Welcome to Markdown! Before you start writing, it's important to note that text on multiple lines have to have one empty line in between them, otherwise they get squished into a single line. Keep that in mind!
+
+```
+Line 1
+Line 2
+
+Line 3
+
+Line 4
+```
+
+Line 1
+Line 2
+
+Line 3
+
+Line 4
+
+<br>
+
+In this guide, markdown examples will appear in code blocks, then they will be rendered directly after.
+
 ## Text flavours
 
 ```
