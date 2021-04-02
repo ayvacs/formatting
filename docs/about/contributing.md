@@ -8,8 +8,11 @@ All of the project's Markdown files are contained in the [master](https://github
 
 Here are the steps that a contribution goes through before being added to the site:
 
-1. Contributor forks the **main** branch, makes their contribution, and makes a pull request.
-    1. Pull request is accepted
-        1. The contribution is added to the website's Markdown files
-        1. The contribution becomes visible on the website with the next release.
-    1. Pull request is denied
+```
+The contributor forks the **main** branch, makes
+their contribution, and makes a pull request.
+├ Pull request is accepted
+│ ├ The contribution is added to the website's Markdown files
+│ └ The contribution becomes visible on the website with the next release.
+└ Pull request is denied
+```
