@@ -38,6 +38,7 @@ nav:
     - Code: markdown/code.md
     - Quotes: markdown/quotes.md
     - Tables: markdown/tables.md
-  - Contributing:
-    - How to contribute: contributing/index.md
-    - Workflow: contributing/workflow.md
+    - HTML: markdown/html.md
+  - About:
+    - Formatting Guide: about/index.md
+    - Contributing: about/contributing.md
