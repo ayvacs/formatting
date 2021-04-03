@@ -70,5 +70,5 @@ extra:
       link: https://www.youtube.com/channel/UCtbA8YpCwcAGKJUHRxMclIg
     - icon: fontawesome/brands/discord
       link: https://discord.gg/KUTsuzZWwD
-  disqus: formatting-guide
+# disqus: formatting-guide
   generator: false
