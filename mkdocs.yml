@@ -1,10 +1,11 @@
 site_name: Formatting Guide
 repo_url: 'https://github.com/sleepiie/formatting'
 repo_name: sleepiie/formatting
+copyright: Copyright &copy; 2021 sleepiie
 theme:
   name: null
   custom_dir: mkdocs-material/material
-  logo: icon.png
+  logo: assets/icon.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -27,20 +28,47 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: favicon.ico
+  favicon: assets/favicon.ico
 
 nav:
   - Home: index.md
   - Markdown:
-    - The basics: markdown/index.md
+    - Introduction: markdown/index.md
     - Lists: markdown/lists.md
     - Images: markdown/images.md
     - Code: markdown/code.md
     - Quotes: markdown/quotes.md
     - Tables: markdown/tables.md
     - HTML: markdown/html.md
+    - Advanced Tricks: markdown/advanced.md
   - About:
     - Project: about/index.md
     - Changelog: about/changelog.md
     - Contributing: about/contributing.md
+    - ✨ Dream Lantern 🔭: about/community.md
     - Source: about/source.md
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎ ‎: redirect.html
+  - ‎‎: redirect.html
+  - ✨ Dream Lantern 🔭: about/community.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/git-alt
+      link: https://github.com/sleepiie
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Dream_Lanterns
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCtbA8YpCwcAGKJUHRxMclIg
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/KUTsuzZWwD
+  disqus: formatting-guide
+  generator: false

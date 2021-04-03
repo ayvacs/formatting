@@ -16,10 +16,54 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
+### INJECT THE FLAVOUR!!!
+
+```
+<p>This is normal text<p>
+
+<b>This text is bold</b>
+
+<strong>This text is important!</strong>
+
+<i>This text is italic</i>
+
+<em>This text is emphasized</em>
+
+<small>This is some smaller text.</small>
+
+<p>This text is <mark>highlighted</mark>.</p>
+
+<p>9 + 10 = <del>21</del> 19.</p>
+
+<p>This is <sub>subscripted</sub> text.</p>
+
+<p>This is <sup>superscripted</sup> text.</p>
+```
+
+<p>This is normal text<p>
+
+<b>This text is bold</b>
+
+<strong>This text is important!</strong>
+
+<i>This text is italic</i>
+
+<em>This text is emphasized</em>
+
+<small>This is some smaller text.</small>
+
+<p>This text is <mark>highlighted</mark>.</p>
+
+<p>9 + 10 = <del>21</del> 19.</p>
+
+<p>This is <sub>subscripted</sub> text.</p>
+
+<p>This is <sup>superscripted</sup> text.</p>
+
 ### simple-pip
 
 ```
-![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
+![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
@@ -44,7 +88,7 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 ```
 
-![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
+![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
@@ -169,3 +213,14 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 </p>
 
 **Credit**: [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+
+
+<!-- Footer -->
+
+---
+
+<p align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepiie/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/sleepiie/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sleepiie/formatting?style=for-the-badge">
+</p>

@@ -1,5 +1,7 @@
 # Lists
 
+Lists are very useful for tracking information. They can come in two forms: Ordered and Unordered.
+
 ## Ordered
 
 ```
@@ -35,3 +37,14 @@
 * Item 4
     * Item 4a
     * Item 4b
+
+
+    <!-- Footer -->
+
+    ---
+
+    <p align="center">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepiie/formatting?style=for-the-badge">
+      <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/sleepiie/formatting?style=for-the-badge">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sleepiie/formatting?style=for-the-badge">
+    </p>

@@ -1,14 +1,10 @@
-# Formatting Guide
+# ✨ Dream Lantern 🔭
 
-Built with ❤️ by [Dom](https://github.com/sleepiie).
+The community by programmers, for programmers.
 
-## Credits
+Although our Discord server is currently under construction, we would love to welcome you to it!
 
-* Made with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-
-## Contributors
-
-* None yet...
+<a href="https://discord.gg/KUTsuzZWwD">Permanent Invite</a>
 
 
 <!-- Footer -->
