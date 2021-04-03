@@ -14,7 +14,7 @@
     
     
       
-        <title>Images - Formatting Guide</title>
+        <title>Advanced Tricks - Formatting Guide</title>
       
     
     
@@ -62,7 +62,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#images" class="md-skip">
+        <a href="#advanced-tricks" class="md-skip">
           Skip to content
         </a>
       
@@ -91,7 +91,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Images
+              Advanced Tricks
             
           </span>
         </div>
@@ -458,20 +458,11 @@
             
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../images/" class="md-nav__link">
         Images
       </a>
-      
     </li>
   
 
@@ -527,11 +518,70 @@
             
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../advanced/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Advanced Tricks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Advanced Tricks
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#hiding-and-showing-content" class="md-nav__link">
+    Hiding and showing content
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dividers" class="md-nav__link">
+    Dividers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comments" class="md-nav__link">
+    Comments
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#using-shortcuts" class="md-nav__link">
+    Using Shortcuts
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -830,6 +880,42 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#hiding-and-showing-content" class="md-nav__link">
+    Hiding and showing content
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dividers" class="md-nav__link">
+    Dividers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comments" class="md-nav__link">
+    Comments
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#using-shortcuts" class="md-nav__link">
+    Using Shortcuts
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -840,22 +926,78 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/sleepiie/formatting/edit/master/docs/markdown/images.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/sleepiie/formatting/edit/master/docs/markdown/advanced.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
-                <h1 id="images">Images</h1>
-<p>Images are made almost the same as links! Just add an exclamation mark at the start. (The text in the link might not be visible to you. It's called alt text- it's important to help visually impaired viewers navigate your site.)</p>
-<pre><code>![Cute kitty](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg)
+                <h1 id="advanced-tricks">Advanced Tricks</h1>
+<h2 id="hiding-and-showing-content">Hiding and showing content</h2>
+<p>The standard HTML <code>&lt;details&gt;</code> tag can be used to show and hide some content.</p>
+<pre><code>Some content is hiding...
+
+&lt;details&gt;
+Found it!
+&lt;/details&gt;
 </code></pre>
 
-<p><img alt="Cute kitty" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg" /></p>
-<p>You can of course add images without alt text:</p>
-<pre><code>![](https://i.pinimg.com/originals/99/c3/68/99c36881337ac6439549000f6c9845ed.png)
+<p>Some content is hiding...</p>
+<details>
+Found it!
+</details>
+
+<p>You can use <code>&lt;details open&gt;</code> if you want it to be opened by default.</p>
+<pre><code>The rest of the content
+
+&lt;details open&gt;
+was already found!
+&lt;/details&gt;
 </code></pre>
 
-<p><img alt="" src="https://i.pinimg.com/originals/99/c3/68/99c36881337ac6439549000f6c9845ed.png" /></p>
+<p>The rest of the content</p>
+<details open>
+was already found!
+</details>
+
+<h2 id="dividers">Dividers</h2>
+<p>Want to quickly divide two seconds? Not a problem. Three dashes produce:</p>
+<pre><code>---
+</code></pre>
+
+<hr />
+<h2 id="comments">Comments</h2>
+<p>Use standard HTML opening (<code>&lt;!--</code>) and closing (<code>--&gt;</code>) comment brackets. Any text in between these brackets will be grayed out on the editor, and completely invisible to users.</p>
+<p>The following example was used before in this tutorial, and comments were used as if they were headers on a table.</p>
+<pre><code>Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the article. [Super cool!][3]             
+&lt;!--
+ #   Link                                                                      Alt text     --&gt;
+[1]: https://i.ytimg.com/vi/uHKfrz65KSU/maxresdefault.jpg                      &quot;Cute Cats&quot;
+[2]: https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Russian-Blue_01.jpg &quot;Even more kitties :)&quot;
+[3]: https://youtu.be/iik25wqIuFo?t=2                                          &quot;Yet another cute cat :3&quot;
+</code></pre>
+
+<p>Here is <a href="https://i.ytimg.com/vi/uHKfrz65KSU/maxresdefault.jpg" title="Cute Cats">a long link</a> that is too long, so I <a href="https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Russian-Blue_01.jpg" title="Even more kitties :)">put it in the</a> bottom of the article. <a href="https://youtu.be/iik25wqIuFo?t=2" title="Yet another cute cat :3">Super cool!</a>           <br />
+<!--
+ #   Link                                                                      Alt text     --></p>
+<h2 id="using-shortcuts">Using Shortcuts</h2>
+<p>Sure, typing with Markdown is already super fast, but you can become even faster if you learn the shortcuts in your editor of choice! Personally, I use <strong>Atom</strong> for <strong>Mac</strong>, and one of the greatest features is the autocomplete in Markdown documents, that finishes Markdown tags for me. This speeds up my workflow!</p>
+<!-- WHY DOESNT IT WORK
+
+# Formulas
+
+
+<pre><code>You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
+$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
+Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
+</code></pre>
+
+
+You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
+$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
+Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
+
+###### Credit to the Formulas section: [PaperHive.org](https://paperhive.org/help/markdown) -->
+
 <!-- Footer -->
 
 <hr />
@@ -885,7 +1027,7 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../lists/" class="md-footer__link md-footer__link--prev" rel="prev">
+        <a href="../html/" class="md-footer__link md-footer__link--prev" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -894,19 +1036,19 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Lists
+              HTML
             </div>
           </div>
         </a>
       
       
-        <a href="../code/" class="md-footer__link md-footer__link--next" rel="next">
+        <a href="../../about/" class="md-footer__link md-footer__link--next" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Code
+              Project
             </div>
           </div>
           <div class="md-footer__button md-icon">
