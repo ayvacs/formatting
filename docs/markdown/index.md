@@ -1,4 +1,4 @@
-[![Formatting Guide Logo](/assets/repo-card.png)](/)
+[![Formatting Guide Logo](https://raw.githubusercontent.com/sleepiie/formatting/master/docs/assets/repo-card.png)](/)
 
 # Introduction
 

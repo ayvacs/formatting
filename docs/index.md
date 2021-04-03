@@ -1,6 +1,6 @@
 #
 
-[![Formatting Guide Logo](/assets/repo-card.png)](/markdown/)
+[![Formatting Guide Logo](https://raw.githubusercontent.com/sleepiie/formatting/master/docs/assets/repo-card.png)](markdown/)
 
 <p align="center">
 Welcome to the <b>Formatting Guide</b>! The goal of this project is to provide free, open source tutorials for <b>Markdown</b> and possibly more languages in the future!

@@ -1,5 +1,11 @@
 # Changelog
 
+## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.1">v1.1.1</a>
+
+** April 3, 2021**
+
+* Fixed issues with README and /markdown/ not reading the repo card properly
+
 ## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.0">v1.1.0</a>
 
 **April 3, 2021**
