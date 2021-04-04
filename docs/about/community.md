@@ -1,10 +1,6 @@
-# ✨ Dream Lantern 🔭
+#
 
-The community by programmers, for programmers.
-
-Although our Discord server is currently under construction, we would love to welcome you to it!
-
-<a href="https://discord.gg/KUTsuzZWwD">Permanent Invite</a>
+<iframe src="https://dream-lanterns.github.io/" width="709.36" height="849.36"></iframe>
 
 
 <!-- Footer -->

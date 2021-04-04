@@ -1,5 +1,12 @@
 # Changelog
 
+## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.2">v1.1.2</a>
+
+** April 4, 2021**
+
+* Fixed [#1 - **Disqus broke**](https://github.com/sleepiie/formatting/issues/1)
+* New social icons
+
 ## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.1">v1.1.1</a>
 
 ** April 3, 2021**

@@ -1,39 +1,18 @@
-{#-
-  This file was automatically generated - do not edit
--#}
-{% extends "base.html" %}
-{% block extrahead %}
-  {% set title = config.site_name %}
-  {% if page and page.title and not page.is_homepage %}
-    {% set title = config.site_name ~ " - " ~ page.title | striptags %}
-  {% endif %}
-  {% set image = config.site_url ~ 'assets/images/banner.png' %}
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ config.site_description }}">
-  <meta property="og:url" content="{{ page.canonical_url }}">
-  <meta property="og:image" content="{{ image }}">
-  <meta property="og:image:type" content="image/png">
-  <meta property="og:image:width" content="1080">
-  <meta property="og:image:height" content="568">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@squidfunk">
-  <meta name="twitter:creator" content="@squidfunk">
-  <meta name="twitter:title" content="{{ title }}">
-  <meta name="twitter:description" content="{{ config.site_description }}">
-  <meta name="twitter:image" content="{{ image }}">
-  <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.a40a2e23.min.css' | url }}">
-{% endblock %}
-{% block announce %}
-  <a href="https://twitter.com/squidfunk">
-    For updates follow <strong>@squidfunk</strong> on
-    <span class="twemoji twitter">
-      {% include ".icons/fontawesome/brands/twitter.svg" %}
-    </span>
-    <strong>Twitter</strong>
-  </a>
-{% endblock %}
-{% block scripts %}
-  {{ super() }}
-  <script src="{{ 'overrides/assets/javascripts/bundle.afdf7228.min.js' | url }}"></script>
-{% endblock %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.3">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{#- This file was automatically generated - do not edit -#} {% extends "base.html" %} {% block extrahead %} {% set title = config.site_name %} {% if page and page.title and not page.is_homepage %} {% set title = config.site_name ~ " - " ~ page.title | striptags %} {% endif %} {% set image = config.site_url ~ 'assets/images/banner.png' %} {% endblock %} {% block announce %} <a href="https://twitter.com/squidfunk"><span class="s2">For updates follow <b>@squidfunk</b> on {% include ".icons/fontawesome/brands/twitter.svg" %} <b>Twitter</b> </span></a>{% endblock %} {% block scripts %} {{ super() }} {% endblock %}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>

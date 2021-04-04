@@ -56,7 +56,7 @@ Line 4
 
 Line 5
 
-Blockquotes can also be nested:
+Blockquotes can also be nested - you can put one inside of another:
 
 ```
 >>> "You miss 100% of the shots you don't take.
@@ -71,6 +71,26 @@ Blockquotes can also be nested:
 >> **- Wayne Gretzky"**
 
 > **- Michael Scott**
+
+You can theoretically nest an infinite amount of quotes:
+
+>>>>>>>>> This is some text inside a quote,
+
+>>>>>>>> inside a quote,
+
+>>>>>>> inside a quote,
+
+>>>>>> inside a quote,
+
+>>>>> inside a quote,
+
+>>>> inside a quote,
+
+>>> inside a quote,
+
+>> inside a quote,
+
+> inside a quote.
 
 
 <!-- Footer -->

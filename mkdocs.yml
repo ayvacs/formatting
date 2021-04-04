@@ -64,11 +64,13 @@ extra:
   social:
     - icon: fontawesome/brands/git-alt
       link: https://github.com/sleepiie
+    - icon: fontawesome/brands/github
+      link: https://github.com/sleepiie/formatting
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Dream_Lanterns
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCtbA8YpCwcAGKJUHRxMclIg
     - icon: fontawesome/brands/discord
       link: https://discord.gg/KUTsuzZWwD
-# disqus: formatting-guide
+  disqus: formatting-guide
   generator: false

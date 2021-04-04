@@ -128,10 +128,10 @@ Inline links are super easy and cool too! [Check it out!](https://google.com)
 
 ### Reference links
 
-Use custom tags (`[1]`, `[custom-link]`, `[pineapple59]`) to reference links that will be defined at the bottom of the article. For example:
+Using custom tags (for example, `[1]`, `[custom-link]`, `[pineapple59]`) you can reference links that will be defined at the bottom of the article. This is entirely cosmetic, and viewers can't notice the difference, so it's purely to make editing the document a little bit easier. For example:
 
 ```
-Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the article. [Super cool!][3]             
+Here is [a very, very long link][1], [here's another][2], and [one more!][3]             
 <!--
  #   Link                                                                      Alt text     -->
 [1]: https://i.ytimg.com/vi/uHKfrz65KSU/maxresdefault.jpg                      "Cute Cats"
@@ -139,7 +139,7 @@ Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the
 [3]: https://youtu.be/iik25wqIuFo?t=2                                          "Yet another cute cat :3"
 ```
 
-Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the article. [Super cool!][3]             
+Here is [a very, very long link][1], [here's another][2], and [one more!][3]             
 <!--
  #   Link                                                                      Alt text     -->
 [1]: https://i.ytimg.com/vi/uHKfrz65KSU/maxresdefault.jpg                      "Cute Cats"
@@ -148,7 +148,7 @@ Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the
 
 ## Ignoring markdown
 
-In case you just wanna use \*normal fancy characters\* in your Markdown file, you've gotta **ignore** it. There's two ways:
+In case you just wanna use \*normal fancy characters\* that would otherwise format text in your document, you can ignore it. There are two ways to ignore Markdown:
 
 ### Using backslashes
 
@@ -168,11 +168,26 @@ This is \*\*\*NOT\*\*\* a \_sentence\_ written in \*\*Markdown\*\*.
 
 ### Using code blocks
 
-This is another way to do it that you shouldnt ever use unless your backslash key got broken and you're too lazy to copy and paste it!
+Here's another way to use it: with code blocks. This isn't recommended though, because it visually changes the appearance of the document. You can use code blocks by putting asterisks (```‎
+`
+‎```
+) on either side of your text.
+
+‎```
+`This is **Markdown** _text_.‎`
+```
 
 `This is **Markdown** _text_.`
 
-A tutorial can be found by clicking [here](https://sleepiie.github.io/formatting/markdown/code/).
+---
+
+Nice job making it through the first part of the tutorial!
+
+<br>
+
+If you're ready to move on to the next part, click **Lists** in the sidebar to the left.
+
+⬅️⬅️⬅️
 
 
 <!-- Footer -->

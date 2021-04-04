@@ -1,6 +1,6 @@
 # Advanced Tricks
 
-## Hiding and showing content
+# Hiding and showing content
 
 The standard HTML `<details>` tag can be used to show and hide some content.
 
@@ -34,7 +34,7 @@ The rest of the content
 was already found!
 </details>
 
-## Dividers
+# Dividers
 
 Want to quickly divide two seconds? Not a problem. Three dashes produce:
 
@@ -44,7 +44,7 @@ Want to quickly divide two seconds? Not a problem. Three dashes produce:
 
 ---
 
-## Comments
+# Comments
 
 Use standard HTML opening (`<!--`) and closing (`-->`) comment brackets. Any text in between these brackets will be grayed out on the editor, and completely invisible to users.
 
@@ -66,7 +66,7 @@ Here is [a long link][1] that is too long, so I [put it in the][2] bottom of the
 [2]: https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Russian-Blue_01.jpg "Even more kitties :)"
 [3]: https://youtu.be/iik25wqIuFo?t=2                                          "Yet another cute cat :3"
 
-## Using Shortcuts
+# Using Shortcuts
 
 Sure, typing with Markdown is already super fast, but you can become even faster if you learn the shortcuts in your editor of choice! Personally, I use **Atom** for **Mac**, and one of the greatest features is the autocomplete in Markdown documents, that finishes Markdown tags for me. This speeds up my workflow!
 
@@ -85,6 +85,42 @@ $$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 
 ###### Credit to the Formulas section: [PaperHive.org](https://paperhive.org/help/markdown) -->
+
+# Weird things I found while making this
+
+Using `<br>` directly in between two lines results in the line break being cancelled out but the two lines being squished together.
+
+```
+These are two normal
+lines of text...
+
+<br>
+
+And now we're
+separated!
+```
+
+These are two normal
+lines of text...
+
+<br>
+
+And now we're
+separated!
+
+```
+These are two normal
+lines of text...
+<br>
+back together
+once again!
+```
+
+These are two normal
+lines of text...
+<br>
+back together
+once again!
 
 
 <!-- Footer -->
