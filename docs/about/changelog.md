@@ -1,5 +1,11 @@
 # Changelog
 
+## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.3">v1.1.3</a>
+
+**April 6, 2021**
+
+* Removed Disqus
+
 ## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.2">v1.1.2</a>
 
 ** April 4, 2021**
