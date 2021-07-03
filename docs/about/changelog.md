@@ -1,5 +1,11 @@
 # Changelog
 
+## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.4">v1.1.4</a>
+
+**July 3, 2021**
+
+* Small clarifications
+
 ## <a href="https://github.com/sleepiie/formatting/releases/tag/v1.1.3">v1.1.3</a>
 
 **April 6, 2021**

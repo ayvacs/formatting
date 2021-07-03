@@ -1,6 +1,8 @@
 # Images
 
-Images are made almost the same as links! Just add an exclamation mark at the start. (The text in the link might not be visible to you. It's called alt text- it's important to help visually impaired viewers navigate your site.)
+Images are made almost the same as links! Just add an exclamation mark at the start.
+
+The text in the square brackets is probably not visible to you. If you didn't know, it's called alt text, and it's important to help visually impaired viewers navigate your site. Instead of seeing the image, people can choose to be read the alt text via text to speech. Even if you don't see alt text, you should still make sure to include it all the time so that anyone can access your site with ease!
 
 ```
 ![Cute kitty](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg)
