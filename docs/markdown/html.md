@@ -63,56 +63,56 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 ### simple-pip
 
 ```
-![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/master/screenshot.png)
+![Example image](https://raw.githubusercontent.com/uravgcatboy/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 ```
 
-![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/master/screenshot.png)
+![Example image](https://raw.githubusercontent.com/uravgcatboy/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 
-**Credit**: [sleepiie/simple-pip](https://github.com/sleepiie/simple-pip)
+**Credit**: [uravgcatboy/simple-pip](https://github.com/uravgcatboy/simple-pip)
 
 ### Material for MkDocs
 
@@ -220,7 +220,7 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sleepiie/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/uravgcatboy/formatting?style=for-the-badge">
 </p>

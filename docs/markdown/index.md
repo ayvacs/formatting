@@ -1,4 +1,4 @@
-[![Formatting Guide Logo](https://raw.githubusercontent.com/sleepiie/formatting/master/docs/assets/repo-card.png)](https://sleepiie.github.io/formatting/)
+[![Formatting Guide Logo](https://raw.githubusercontent.com/uravgcatboy/formatting/master/docs/assets/repo-card.png)](https://uravgcatboy.github.io/formatting/)
 
 # Introduction
 
@@ -116,7 +116,7 @@ Semi-Large Header
 
 There are two types of Markdown links: inline and reference.
 
-In Markdown on websites, links will open in the same tab. However, if you want to open the link in a new tab, you can do that! We'll get into that during the [HTML](https://sleepiie.github.io/formatting/markdown/html) part of this tutorial.
+In Markdown on websites, links will open in the same tab. However, if you want to open the link in a new tab, you can do that! We'll get into that during the [HTML](https://uravgcatboy.github.io/formatting/markdown/html) part of this tutorial.
 
 ### Inline links
 
@@ -195,7 +195,7 @@ If you're ready to move on to the next part, click **Lists** in the sidebar to t
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sleepiie/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/uravgcatboy/formatting?style=for-the-badge">
 </p>

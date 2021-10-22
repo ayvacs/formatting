@@ -1,7 +1,7 @@
 site_name: Formatting Guide
-repo_url: 'https://github.com/sleepiie/formatting'
-repo_name: sleepiie/formatting
-copyright: Copyright &copy; 2021 sleepiie
+repo_url: 'https://github.com/uravgcatboy/formatting'
+repo_name: uravgcatboy/formatting
+copyright: Copyright &copy; 2021 uravgcatboy
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -63,9 +63,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/git-alt
-      link: https://github.com/sleepiie
+      link: https://github.com/uravgcatboy
     - icon: fontawesome/brands/github
-      link: https://github.com/sleepiie/formatting
+      link: https://github.com/uravgcatboy/formatting
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Dream_Lanterns
     - icon: fontawesome/brands/youtube

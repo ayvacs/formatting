@@ -1,6 +1,6 @@
 # Formatting Guide
 
-Built with ❤️ by [Dom](https://github.com/sleepiie).
+Built with ❤️ by [Dom](https://github.com/uravgcatboy).
 
 ## Credits
 
@@ -16,7 +16,7 @@ Built with ❤️ by [Dom](https://github.com/sleepiie).
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/sleepiie/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sleepiie/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/uravgcatboy/formatting?style=for-the-badge">
 </p>
