@@ -86,7 +86,7 @@ Also check out this [LaTeX introduction](https://en.wikibooks.org/wiki/LaTeX/Mat
 
 ###### Credit to the Formulas section: [PaperHive.org](https://paperhive.org/help/markdown) -->
 
-# Weird things I found while making this
+# Weird things I found
 
 Using `<br>` directly in between two lines results in the line break being cancelled out but the two lines being squished together.
 

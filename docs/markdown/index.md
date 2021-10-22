@@ -2,29 +2,29 @@
 
 # Introduction
 
-Want to inject some flavour into your every day text chat? You're in luck! Welcome to Markdown!
+Want to inject some flavour into boring every-day text? You're in luck! Welcome to **Markdown**!
 
-Markdown is a lightweight text formatting language that you can use to style and format elements on plain documents. Markdown is one of the world's most popular markup languages, and for a reason - its simplicity. Compared to other glorified programs, Markdown doesn't make you move your mouse to click buttons. Instead, you use *asterisks*, __underscores__, and `backticks` to indicate which parts of the text should look different. You can even embed HTML directly into the doc, and it'll render like a webpage! When you save the document, it gets turned into a super visually pleasant, rich document.
+**Markdown** is a lightweight text formatting language that you can use to style and format text on the web. Markdown is one of the world's most popular markup languages, and for a reason - its simplicity. To format using Markdown, you can use different characters such as *asterisks*, __underscores__, and `backticks` to indicate which parts of the text should look different. You can even embed HTML directly into the page, and it'll render! When you save the document, it gets turned into a super visually pleasant, rich document.
 
-In this guide, markdown examples will appear in code blocks, then they will be rendered directly after. This will help you understand Markdown syntax and how it gets rendered. In this guide you will also learn by reading examples, and piecing the puzzle pieces together. That way you learn more, and it's a lot more fun!
+In this guide, Markdown examples will appear in code blocks, then they will be rendered directly after. This will help you understand Markdown syntax and how it gets rendered. In this guide you will also learn by reading examples, and piecing the puzzle pieces together. That way you learn more, and it's a lot more fun!
 
 Before you start writing, it's important to note that text on multiple lines have to have one empty line in between them, otherwise they get squished into a single line. Keep that in mind!
 
 ```
-Line 1
-Line 2
+This text will appear on line 1
+This text will also appear on line 1
 
-Line 3
+This text will appear on line 3, though
 
-Line 4
+And this text is shown on line 4.
 ```
 
-Line 1
-Line 2
+This text will appear on line 1
+This text will also appear on line 1
 
-Line 3
+This text will appear on line 3, though
 
-Line 4
+And this text is shown on line 4.
 
 <br>
 

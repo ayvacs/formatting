@@ -1,6 +1,6 @@
 # Formatting Guide
 
-Built with ❤️ by [Dom](https://github.com/uravgcatboy).
+Built with ❤️ by [**dom**](https://github.com/uravgcatboy).
 
 ## Credits
 

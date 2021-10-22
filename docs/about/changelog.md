@@ -1,5 +1,15 @@
 # Changelog
 
+## <a href="https://github.com/uravgcatboy/formatting/releases/tag/v1.2.1">v1.2.1</a>
+
+**October 22, 2021**
+
+OK I FORGOT HOW FUN THIS IS
+
+* Removed discord links, it died a long time ago
+* A ton of small changes
+* Auto-deploy with GH pages so updating will take a LOT less time now!
+
 ## <a href="https://github.com/uravgcatboy/formatting/releases/tag/v1.2.0">v1.2.0</a>
 
 **October 22, 2021**
