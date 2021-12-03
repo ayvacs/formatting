@@ -1,7 +1,7 @@
 site_name: Formatting Guide
-repo_url: 'https://github.com/uravgcatboy/formatting'
-repo_name: uravgcatboy/formatting
-copyright: Copyright &copy; 2021 uravgcatboy
+repo_url: 'https://github.com/frogweezer/formatting'
+repo_name: frogweezer/formatting
+copyright: Copyright &copy; 2021 frogweezer
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -50,9 +50,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/git-alt
-      link: https://github.com/uravgcatboy
+      link: https://github.com/frogweezer
     - icon: fontawesome/brands/github
-      link: https://github.com/uravgcatboy/formatting
+      link: https://github.com/frogweezer/formatting
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Dream_Lanterns
     - icon: fontawesome/brands/youtube

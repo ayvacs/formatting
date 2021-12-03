@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to the project!
 
-All of the project's Markdown files are contained in the [master](https://github.com/uravgcatboy/formatting) branch, so please fork it and make your contributions. After that, you can make a pull request to add the changes. If the pull request is accepted, the changes will be added to the site with the next release.
+All of the project's Markdown files are contained in the [master](https://github.com/frogweezer/formatting) branch, so please fork it and make your contributions. After that, you can make a pull request to add the changes. If the pull request is accepted, the changes will be added to the site with the next release.
 
 ## Workflow
 
@@ -23,7 +23,7 @@ their contribution, and makes a pull request.
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uravgcatboy/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/uravgcatboy/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/uravgcatboy/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frogweezer/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/frogweezer/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frogweezer/formatting?style=for-the-badge">
 </p>
