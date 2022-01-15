@@ -1,4 +1,4 @@
-[![Formatting Guide Logo](https://raw.githubusercontent.com/frogweezer/formatting/master/docs/assets/repo-card.png)](https://frogweezer.github.io/formatting)
+[![Formatting Guide Logo](https://raw.githubusercontent.com/ayvacs/formatting/master/docs/assets/repo-card.png)](https://ayvacs.github.io/formatting)
 
 <h1 align="center">Formatting Guide</h1>
 

@@ -54,7 +54,7 @@ You can even go super compact:
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frogweezer/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/frogweezer/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frogweezer/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ayvacs/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ayvacs/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ayvacs/formatting?style=for-the-badge">
 </p>

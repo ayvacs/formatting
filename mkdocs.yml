@@ -1,7 +1,7 @@
 site_name: Formatting Guide
-repo_url: 'https://github.com/frogweezer/formatting'
-repo_name: frogweezer/formatting
-copyright: Copyright &copy; 2021 frogweezer
+repo_url: 'https://github.com/ayvacs/formatting'
+repo_name: ayvacs/formatting
+copyright: Copyright &copy; 2021 ayvacs
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -50,9 +50,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/git-alt
-      link: https://github.com/frogweezer
+      link: https://github.com/ayvacs
     - icon: fontawesome/brands/github
-      link: https://github.com/frogweezer/formatting
+      link: https://github.com/ayvacs/formatting
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Dream_Lanterns
     - icon: fontawesome/brands/youtube

@@ -63,56 +63,56 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 ### simple-pip
 
 ```
-![Example image](https://raw.githubusercontent.com/frogweezer/simple-pip/master/screenshot.png)
+![Example image](https://raw.githubusercontent.com/ayvacs/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/frogweezer/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/ayvacs/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 ```
 
-![Example image](https://raw.githubusercontent.com/frogweezer/simple-pip/master/screenshot.png)
+![Example image](https://raw.githubusercontent.com/ayvacs/simple-pip/master/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/frogweezer/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/ayvacs/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 
-**Credit**: [frogweezer/simple-pip](https://github.com/frogweezer/simple-pip)
+**Credit**: [ayvacs/simple-pip](https://github.com/ayvacs/simple-pip)
 
 ### Material for MkDocs
 
@@ -220,7 +220,7 @@ Using HTML in Markdown is super self explanatory, so here's a few examples that 
 ---
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frogweezer/formatting?style=for-the-badge">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/frogweezer/formatting?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frogweezer/formatting?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ayvacs/formatting?style=for-the-badge">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ayvacs/formatting?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ayvacs/formatting?style=for-the-badge">
 </p>
